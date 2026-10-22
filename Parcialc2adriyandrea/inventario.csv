@@ -1,0 +1,31 @@
+﻿Producto,Categoria,Sucursal,Cantidad,Precio_Unitario,Valor_Total
+Laptop Lenovo,Tecnología,San Salvador,12,650.0,7800.0
+Mouse inalámbrico,Tecnología,San Salvador,45,12.5,562.5
+Teclado USB,Tecnología,San Salvador,30,18.0,540.0
+Silla de oficina,Mobiliario,San Salvador,14,85.0,1190.0
+Escritorio,Mobiliario,San Salvador,8,120.0,960.0
+Impresora HP,Tecnología,San Salvador,10,175.0,1750.0
+Monitor 24 pulgadas,Tecnología,Santa Ana,16,145.0,2320.0
+Audífonos,Tecnología,Santa Ana,35,22.0,770.0
+Resma de papel,Papelería,Santa Ana,60,5.5,330.0
+Tinta para impresora,Papelería,Santa Ana,25,19.0,475.0
+Archivador,Mobiliario,Santa Ana,12,42.0,504.0
+Laptop HP,Tecnología,Santa Ana,9,590.0,5310.0
+Tablet Samsung,Tecnología,San Miguel,18,210.0,3780.0
+Memoria USB 32 GB,Tecnología,San Miguel,50,8.0,400.0
+Silla de oficina,Mobiliario,San Miguel,10,85.0,850.0
+Cuaderno universitario,Papelería,San Miguel,80,2.25,180.0
+Calculadora,Papelería,San Miguel,24,14.0,336.0
+Monitor 24 pulgadas,Tecnología,San Miguel,11,145.0,1595.0
+Impresora Epson,Tecnología,La Libertad,7,190.0,1330.0
+Mouse inalámbrico,Tecnología,La Libertad,40,12.5,500.0
+Resma de papel,Papelería,La Libertad,55,5.5,302.5
+Escritorio,Mobiliario,La Libertad,6,120.0,720.0
+Audífonos,Tecnología,La Libertad,28,22.0,616.0
+Laptop Lenovo,Tecnología,La Libertad,5,650.0,3250.0
+Teclado USB,Tecnología,Sonsonate,32,18.0,576.0
+Tablet Samsung,Tecnología,Sonsonate,13,210.0,2730.0
+Cuaderno universitario,Papelería,Sonsonate,70,2.25,157.5
+Tinta para impresora,Papelería,Sonsonate,20,19.0,380.0
+Archivador,Mobiliario,Sonsonate,9,42.0,378.0
+Monitor 24 pulgadas,Tecnología,Sonsonate,8,145.0,1160.0
